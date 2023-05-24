@@ -1,0 +1,33 @@
+Here's a dictionary of common terms related to Amazon Web Services (AWS):
+
+Amazon Web Services (AWS): A comprehensive cloud computing platform provided by Amazon that offers a wide range of services including computing power, storage, databases, machine learning, and more.
+
+Elastic Compute Cloud (EC2): A service that provides virtual servers in the cloud, allowing you to run applications and services on Amazon's infrastructure.
+
+Simple Storage Service (S3): A scalable object storage service that allows you to store and retrieve data from anywhere on the web. It is commonly used for backup, archiving, content distribution, and data storage for web applications.
+
+Relational Database Service (RDS): A managed database service that supports several popular relational database engines such as MySQL, PostgreSQL, Oracle, and SQL Server.
+
+Lambda: A serverless computing service that lets you run your code without provisioning or managing servers. It allows you to execute code in response to events and automatically scales based on demand.
+
+Virtual Private Cloud (VPC): A logically isolated section of the AWS cloud where you can launch resources like EC2 instances, databases, and load balancers. It provides control over your virtual networking environment.
+
+Elastic Load Balancer (ELB): A service that automatically distributes incoming traffic across multiple EC2 instances, enhancing the availability and fault tolerance of your applications.
+
+Identity and Access Management (IAM): A service that helps you control access to AWS resources by providing authentication and authorization mechanisms. It allows you to create and manage users, groups, roles, and permissions.
+
+Auto Scaling: A feature that automatically adjusts the number of EC2 instances in a group based on predefined conditions, ensuring optimal performance and cost efficiency.
+
+CloudFormation: A service that enables you to define and manage infrastructure as code using templates. It allows you to provision and update AWS resources in a predictable and automated manner.
+
+Simple Queue Service (SQS): A fully managed message queuing service that enables you to decouple and scale microservices, distributed systems, and serverless applications.
+
+Amazon RDS Aurora: A relational database engine compatible with MySQL and PostgreSQL, designed for high performance, scalability, and durability. It is a part of Amazon RDS.
+
+Amazon S3 Glacier: An archival storage service for long-term data retention. It provides secure, durable, and low-cost storage for data that is infrequently accessed.
+
+AWS CloudTrail: A service that provides governance, compliance, and auditing capabilities for your AWS account. It logs and monitors API activity, allowing you to track changes and troubleshoot issues.
+
+AWS CloudWatch: A monitoring and observability service that provides insights into your AWS resources and applications. It allows you to collect and track metrics, monitor log files, and set alarms.
+
+These are just a few key terms related to AWS. The platform offers a vast array of services, so the list can go on. 
