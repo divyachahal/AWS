@@ -30,4 +30,32 @@ AWS CloudTrail: A service that provides governance, compliance, and auditing cap
 
 AWS CloudWatch: A monitoring and observability service that provides insights into your AWS resources and applications. It allows you to collect and track metrics, monitor log files, and set alarms.
 
-These are just a few key terms related to AWS. The platform offers a vast array of services, so the list can go on. 
+Route 53: A scalable domain name system (DNS) web service that translates domain names into IP addresses, allowing you to route traffic to your resources, such as web applications or load balancers.
+
+Amazon Elastic Beanstalk: A fully managed service that makes it easy to deploy, run, and scale applications written in popular languages (such as Java, .NET, Node.js, Python, etc.) on AWS. It handles the underlying infrastructure for you.
+
+AWS Lambda Layers: A distribution mechanism for libraries, custom runtimes, and other function dependencies in AWS Lambda. Layers allow you to manage and share common code across multiple functions.
+
+Amazon DynamoDB: A fully managed NoSQL database service that provides fast and predictable performance with seamless scalability. It is a key-value and document database that can handle large amounts of data and high traffic loads.
+
+Amazon Elastic Container Service (ECS): A highly scalable and fully managed container orchestration service that allows you to run, scale, and manage Docker containers on AWS. It integrates with other AWS services like EC2, ECR, and IAM.
+
+AWS Elastic Beanstalk: A service that allows you to deploy and manage applications quickly and easily, handling infrastructure provisioning, deployment, and monitoring. It supports various languages and platforms.
+
+Amazon CloudFront: A content delivery network (CDN) service that accelerates the delivery of your website content, videos, and APIs to users worldwide. It caches and serves your content from edge locations closest to the user.
+
+AWS Elastic Load Balancing (ELB): A service that automatically distributes incoming application traffic across multiple targets (such as EC2 instances, containers, or IP addresses) to improve availability and fault tolerance.
+
+AWS Glue: A fully managed extract, transform, and load (ETL) service that makes it easy to prepare and load data for analytics. It automates data discovery, cataloging, and schema inference.
+
+AWS CloudFormation: A service that allows you to create and manage a collection of AWS resources using templates. It simplifies infrastructure deployment and helps you maintain consistent configurations.
+
+Amazon Redshift: A fully managed data warehousing service that allows you to analyze large volumes of data using SQL queries. It is optimized for online analytical processing (OLAP) and provides high performance at scale.
+
+AWS Kinesis: A platform for real-time streaming data processing. It allows you to ingest, process, and analyze streaming data from various sources like websites, IoT devices, application logs, and more.
+
+Amazon Aurora Serverless: An on-demand, auto-scaling configuration for Amazon Aurora (compatible with MySQL and PostgreSQL). It automatically scales database capacity based on demand, providing cost savings for intermittent workloads.
+
+AWS Step Functions: A serverless workflow service that allows you to coordinate and visualize multiple AWS services as a series of steps in a workflow. It simplifies the development and management of applications with distributed components.
+
+AWS Batch: A fully managed service that enables you to run batch computing workloads on the AWS cloud. It dynamically provisions resources to optimize performance and cost for your batch jobs.
