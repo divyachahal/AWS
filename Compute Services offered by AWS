@@ -1,0 +1,46 @@
+Compute Services offered by AWS:
+
+1.	Amazon EC2 (Elastic Compute Cloud): Amazon EC2 provides resizable virtual servers, known as instances, in the cloud. You can launch instances with different configurations, such as varying CPU, memory, storage, and networking capacity. EC2 allows you to choose from a wide range of operating systems and provides full control over the underlying infrastructure.
+
+2.	AWS Lambda: AWS Lambda is a serverless compute service that enables you to run your code without provisioning or managing servers. With Lambda, you can upload your code and AWS takes care of automatically scaling and managing the required compute resources to execute your code in response to events or API invocations.
+
+3.	Amazon ECS (Elastic Container Service): Amazon ECS is a fully managed container orchestration service that supports Docker containers. It allows you to easily run, scale, and manage containerized applications using AWS resources. ECS provides features such as service discovery, load balancing, and auto-scaling for containers.
+
+4.	AWS Batch: AWS Batch is a fully managed service for running batch computing workloads. It helps you efficiently execute large-scale computing jobs by dynamically provisioning the required compute resources. AWS Batch automatically scales the infrastructure based on demand and provides job scheduling and monitoring capabilities.
+
+5.	AWS Elastic Beanstalk: AWS Elastic Beanstalk is a platform as a service (PaaS) that simplifies the deployment and management of applications. It supports multiple programming languages and frameworks, allowing you to focus on writing code while AWS handles the underlying infrastructure, such as provisioning, scaling, and monitoring.
+
+6.	AWS Fargate: AWS Fargate is a serverless compute engine for containers. It allows you to run containers without managing the underlying infrastructure. With Fargate, you can focus on designing and deploying your containerized applications while AWS takes care of resource provisioning, scaling, and monitoring.
+
+7.	Amazon Lightsail: Amazon Lightsail provides a simplified way to launch and manage virtual private servers (VPS) with pre-configured compute, storage, and networking capabilities. It is designed for developers, small businesses, and individuals who require a straightforward and cost-effective solution for their web applications or websites.
+
+8.	AWS Outposts: AWS Outposts extends AWS infrastructure, services, and tools to on-premises data centers or co-location facilities. It enables you to run compute and storage services locally, while seamlessly integrating with other AWS services in the cloud.
+
+9.	AWS Snow Family: The AWS Snow Family includes Snowcone, Snowball, and Snowmobile. These physical devices help you transfer large amounts of data into and out of AWS securely and efficiently, even in areas with limited network connectivity.
+
+10.	Amazon EC2 Auto Scaling: Amazon EC2 Auto Scaling automatically adjusts the number of EC2 instances in an Auto Scaling group based on metrics, such as CPU utilization or network traffic. It helps maintain application availability, optimize costs, and automatically scale resources in response to demand.
+
+11.	AWS ParallelCluster: AWS ParallelCluster is an open-source cluster management tool that makes it easy to deploy and manage high-performance computing (HPC) clusters on AWS. It helps optimize resource utilization, improves workload efficiency, and simplifies the setup and configuration of HPC clusters.
+
+12.	Amazon EKS (Elastic Kubernetes Service): Amazon EKS is a fully managed service that simplifies the deployment, management, and scaling of Kubernetes clusters. It provides a highly available and secure environment for running containerized applications using Kubernetes.
+
+13.	AWS Step Functions: AWS Step Functions is a serverless workflow service that enables you to coordinate and orchestrate multiple AWS services and tasks into a workflow. It allows you to build complex workflows with conditional logic, error handling, and retries, making it easier to manage application workflows.
+
+14.	AWS Glue: AWS Glue is a fully managed extract, transform, and load (ETL) service that helps prepare and transform data for analytics. It provides serverless data integration capabilities, making it easier to discover, catalog, clean, and transform data from various sources.
+
+15.	AWS Data Pipeline: AWS Data Pipeline is a web service for orchestrating and automating the movement and transformation of data between different AWS services and on-premises data sources. It helps you create, schedule, and monitor data-driven workflows for data processing and analysis.
+
+16.	AWS Transfer Family: The AWS Transfer Family includes AWS Transfer for SFTP and AWS Transfer for FTPS. These services provide fully managed, highly available SFTP (Secure File Transfer Protocol) and FTPS (FTP over SSL) servers in the cloud, making it easier to securely transfer files to and from AWS.
+
+17.	Amazon EMR (Elastic MapReduce): Amazon EMR is a fully managed big data processing service that simplifies the setup, operation, and scaling of Apache Hadoop, Apache Spark, and other big data frameworks. EMR makes it easier to process and analyse large amounts of data using popular big data tools.
+
+18.	AWS Deep Learning AMIs (Amazon Machine Images): AWS Deep Learning AMIs are pre-configured machine images optimized for deep learning tasks. They include popular deep learning frameworks such as TensorFlow, PyTorch, and Apache MXNet, along with other tools and libraries needed for deep learning workflows.
+
+19.	AWS DMS (Database Migration Service): AWS DMS is a service that helps you migrate databases to AWS easily and securely. It supports both homogeneous and heterogeneous database migrations, allowing you to move your data to AWS while minimizing downtime and ensuring data integrity.
+
+20.	AWS Transfer for Amazon S3: AWS Transfer for Amazon S3 is a fully managed service that allows you to transfer files to and from Amazon S3 using the FTP (File Transfer Protocol) and FTPS (FTP over SSL) protocols. It provides a convenient way to migrate and manage file transfers to Amazon S3.
+
+21.	AWS Snowball Edge: AWS Snowball Edge is a petabyte-scale data transfer and edge computing device. It allows you to collect, process, and transport data to and from AWS in environments with limited or no internet connectivity. Snowball Edge also supports running AWS Lambda functions at the edge.
+
+22.	AWS Wavelength: AWS Wavelength brings AWS compute and storage services to the edge of 5G networks, allowing developers to build ultra-low latency applications. It enables mobile and IoT devices to communicate directly with AWS services located at the edge of the network, reducing latency for time-sensitive applications.
+
